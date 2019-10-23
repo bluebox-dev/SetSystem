@@ -1,0 +1,6 @@
+# Configuration file for startup.sh
+linux:
+	username: inetadm
+	password: Inet@Project
+	sshport: 22
+	sshkey: 
